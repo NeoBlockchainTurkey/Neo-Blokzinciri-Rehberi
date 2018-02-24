@@ -1,6 +1,6 @@
 # .Net Yazılımcıları için NEO Blokzinciri Hızlı Başlangıç Rehberi
 
-.NET Yazılımcıları için NEO Blokzinciri dökümantasyonu ([url](https://github.com/mwherman2000/neo-windocs/tree/master/windocs))
+.NET Yazılımcıları için NEO Blokzinciri dökümantasyonu
 
 ## Amaç
 
